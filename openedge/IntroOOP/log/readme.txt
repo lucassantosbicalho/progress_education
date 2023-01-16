@@ -1,0 +1,1 @@
+/* Empty file to create the log directory in the compressed file
